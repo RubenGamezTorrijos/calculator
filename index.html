@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Calculator</title>
+  <link rel="stylesheet" href="style.css">
+  <meta name="author" content="Rubén Gámez Torrijos">
+</head>
+
+<body>
+  <div class="calculator">
+    <input type="text" id="result" disabled>
+    <button onclick="clearResult()">C</button>
+    <button onclick="backspace()">&larr;</button>
+    <button onclick="insertSymbol('/')">&divide;</button>
+    <button onclick="insertSymbol('7')">7</button>
+    <button onclick="insertSymbol('8')">8</button>
+    <button onclick="insertSymbol('9')">9</button>
+    <button onclick="insertSymbol('*')">&times;</button>
+    <button onclick="insertSymbol('4')">4</button>
+    <button onclick="insertSymbol('5')">5</button>
+    <button onclick="insertSymbol('6')">6</button>
+    <button onclick="insertSymbol('-')">&minus;</button>
+    <button onclick="insertSymbol('1')">1</button>
+    <button onclick="insertSymbol('2')">2</button>
+    <button onclick="insertSymbol('3')">3</button>
+    <button onclick="insertSymbol('+')">+</button>
+    <button onclick="insertSymbol('0')">0</button>
+    <button onclick="insertSymbol('.')">.</button>
+    <button onclick="calculateResult()">=</button>
+  </div>
+  <script src="script.js"></script>
+</body>
+
+</html>
