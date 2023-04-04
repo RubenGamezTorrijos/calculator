@@ -1,21 +1,32 @@
+:root {
+  --primary-color: #0088cc;
+  --secondary-color: #00dd99;
+}
+
 .calculator {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-gap: 10px;
   padding: 10px;
-  background-color: #f7f7f7;
-  border-radius: 5px;
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  background-color: gray;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 
 .calculator button {
-  padding: 10px;
-  font-size: 24px;
+  padding: 20px;
+  font-size: 32px;
   border: none;
   background-color: #fff;
-  border-radius: 5px;
+  color: var(--primary-color);
+  border-radius: 10px;
   cursor: pointer;
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.2s ease-in-out;
+}
+
+.calculator button:hover {
+  background-color: #eee;
 }
 
 .calculator button:active {
@@ -24,10 +35,23 @@
 
 .calculator input[type="text"] {
   grid-column: 1 / span 4;
-  padding: 10px;
-  font-size: 24px;
+  padding: 20px;
+  font-size: 32px;
   text-align: right;
   border: none;
-  background-color: #eee;
-  border-radius: 5px;
+  background-color: #4488cc;
+  color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
+
+.calculator button:nth-child(2) {
+  background-color: var(--secondary-color);
+  color: #fff;
+}
+
+.calculator button:nth-child(19) {
+  background-color: var(--primary-color);
+  color: #fff;
+}
+
