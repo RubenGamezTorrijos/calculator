@@ -1,6 +1,7 @@
 :root {
   --primary-color: #0088cc;
-  --secondary-color: #00dd99;
+  --secondary-color: #004e7a;
+  --third-color: #c30000;
 }
 
 .calculator {
@@ -45,13 +46,17 @@
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-.calculator button:nth-child(2) {
+.calculator button:nth-child(16) {
   background-color: var(--secondary-color);
   color: #fff;
 }
 
 .calculator button:nth-child(19) {
-  background-color: var(--primary-color);
+  background-color: #00dd99;
+  color: #fff;
+}
+.calculator button:nth-child(18) {
+  background-color: var(--third-color);
   color: #fff;
 }
 
