@@ -9,7 +9,7 @@
   grid-template-columns: repeat(4, 1fr);
   grid-gap: 10px;
   padding: 10px;
-  background-color: gray;
+  background-color: #dddddd;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
@@ -39,9 +39,9 @@
   padding: 20px;
   font-size: 32px;
   text-align: right;
-  border: none;
-  background-color: #4488cc;
-  color: #fff;
+  border: 5px;
+  background-color: #ffffff;
+  color: var(--secondary-color);
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
@@ -60,3 +60,22 @@
   color: #fff;
 }
 
+.calculator button:nth-child(17) {
+  background-color: var(--primary-color);
+  color: #fff;
+}
+
+.calculator button:nth-child(13) {
+  background-color: var(--primary-color);
+  color: #fff;
+}
+
+.calculator button:nth-child(9) {
+  background-color: var(--primary-color);
+  color: #fff;
+}
+
+.calculator button:nth-child(5) {
+  background-color: var(--primary-color);
+  color: #fff;
+}
