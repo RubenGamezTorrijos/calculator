@@ -2,7 +2,7 @@
 ¡Bienvenido al proyecto Calculadora Web! 🎯 Este proyecto implementa una calculadora en línea con capacidades de realizar operaciones matemáticas básicas y avanzadas a través de una interfaz de usuario amigable. El sistema se desarrolla en dos módulos principales: Frontend y Backend.
 
 <br>
-![https://github.com/RubenGamezTorrijos/assets/efcedff8-c5d3-4184-940d-6c1dffc0445d](https://github.com/RubenGamezTorrijos/calculator/blob/main/images/Calculadora_Web.jpg)
+![https://github.com/RubenGamezTorrijos/assets/Calculadora_Web.jpg](https://github.com/RubenGamezTorrijos/calculator/blob/main/images/Calculadora_Web.jpg)
 <br>
 
 
@@ -42,6 +42,26 @@
 * ✅ **Operaciones Soportadas:** Suma, resta, multiplicación, división, operaciones con fracciones y raíces cuadradas.
 * ✅ **Diseño Responsivo:** Compatible con dispositivos móviles y de escritorio.
 * ✅ **Pruebas Unitarias:** Módulo con pruebas básicas de operaciones matemáticas.
+
+---
+
+## 📂 Estructura
+
+**Estructura del proyecto**
+```
+calculadora_web/
+├── index.html           # Página principal de la calculadora
+├── assets/
+│   ├── css/
+│   │    └── styles.css  # Estilos CSS
+│   └── js/              #
+│        └── app.js      # Servidor Express
+├── README.md            # Este archivo
+└── LICENSE              # Licencia Apache 2.0
+
+```
+
+---
 
 ## 🚀 **Guía de Uso**
 ### 1. Instalación
