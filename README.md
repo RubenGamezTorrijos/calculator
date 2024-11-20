@@ -50,13 +50,13 @@
 **Estructura del proyecto**
 ```
 calculadora_web/
-├── index.html           # Página principal de la calculadora
+├── index.html           # Estructura web: Página principal de la calculadora
 ├── assets/
 │   ├── css/
-│   │    └── styles.css  # Estilos CSS
+│   │    └── styles.css  # CSS: Estilos del front-end de calculadora
 │   └── js/              #
-│        └── app.js      # Servidor Express
-├── README.md            # Este archivo
+│        └── app.js      # JS: Lógica de la calculadora en JavaScript
+├── README.md            # Documentación del proyecto
 └── LICENSE              # Licencia Apache 2.0
 
 ```
@@ -70,4 +70,46 @@ calculadora_web/
 git clone https://github.com/tu-usuario/calculator.git
 cd calculator
 ```
+
+🔹2. Instala las dependencias:
+
+```
+npm install
+```
+
+### 2. Ejecución del Proyecto
+
+#### 🖥️ Frontend (Interfaz Web)
+Para ejecutar la interfaz de usuario localmente, simplemente abre el archivo frontend/index.html en tu navegador.
+
+#### 🛠️ Backend
+Para iniciar el servidor backend, ejecuta el siguiente comando:
+```
+node backend/app.js
+```
+Esto iniciará el servidor en el puerto por defecto 3000.
+
+---
+
+## 🧑‍💻 Desarrollo
+**Scripts útiles**
+
+- Iniciar el servidor backend:
+```
+node backend/app.js
+```
+- Ejecutar el frontend (solo abrir en navegador).
+
+> **NOTAS:** Requisitos de Desarrollo Asegúrate de tener instalado Node.js y npm para poder ejecutar el proyecto.
+
+
+---
+
+## 🧮 Ejemplos de Consultas
+|Operación	| Descripción	Ejemplo |
+|:----------|:-------------------|
+| ``suma``  |  Suma de dos números	5 + 3 |
+| ``resta``	|  Resta de dos números	10 - 4 |
+| ``multiplicación`` |	Multiplicación de dos números	7 * 2 |
+| ``división`` |	División de dos números	20 / 4 |
 
