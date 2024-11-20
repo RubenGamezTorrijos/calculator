@@ -6,7 +6,7 @@
 <br>
 
 
-![Status](https://img.shields.io/badge/Estado-En%20Desarrollo-yellow?style=flat-square)
+![Status](https://img.shields.io/badge/Estado-En%20Producción-green?style=flat-square)
 ![GitHub license](https://img.shields.io/github/license/RubenGamezTorrijos/calculator?style=flat-square)
 ![GitHub version](https://img.shields.io/github/v/tag/RubenGamezTorrijos/calculator?label=versión&style=flat-square)
 ![GitHub repo size](https://img.shields.io/github/repo-size/RubenGamezTorrijos/calculator?style=flat-square)
