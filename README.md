@@ -18,8 +18,8 @@
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/RubenGamezTorrijos/calculator/main.yml?style=flat-square)
 
 > **Versión actual:** 1.0.0  
-> **Plataforma:** Java Script + CSS + HTML  
-> **Compatibilidad:** Chrome, Edge, Firefox y Safari
+> **Plataforma:** JavaScript + CSS + HTML  
+> **Compatibilidad:** Navegadores (Chrome, Edge, Firefox y Safari)
 
 ---
 
@@ -28,12 +28,20 @@
 - [Estructura](#-estructura)
 - [Guía de uso](#-guía-de-uso)
 - [Desarrollo](#-desarrollo)
+- [Capturas](#-capturas)
 - [Contribuciones](#-contribuciones)
-- [Próximas Mejoras](#-próximas-mejoras)
+- [Próximas mejoras](#-próximas-mejoras)
 - [Créditos](#-créditos)
 - [Licencia](#-licencia)
 
 ---
+
+## 🌟 Características
+* ✅ **Frontend:** Interfaz de usuario en HTML, CSS y JavaScript para realizar cálculos de manera intuitiva.
+* ✅ **Backend:** Servidor en Node.js con Express para manejar las operaciones matemáticas.
+* ✅ **Operaciones Soportadas:** Suma, resta, multiplicación, división, operaciones con fracciones y raíces cuadradas.
+* ✅ **Diseño Responsivo:** Compatible con dispositivos móviles y de escritorio.
+* ✅ **Pruebas Unitarias:** Módulo con pruebas básicas de operaciones matemáticas.
 
 ## 🚀 **Guía de Uso**
 ### 1. Instalación
