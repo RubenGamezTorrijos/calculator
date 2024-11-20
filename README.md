@@ -102,7 +102,6 @@ node backend/app.js
 
 > **NOTAS:** Requisitos de Desarrollo Asegúrate de tener instalado Node.js y npm para poder ejecutar el proyecto.
 
-
 ---
 
 ## 🧮 Ejemplos de Consultas
@@ -112,4 +111,48 @@ node backend/app.js
 | ``resta``	|  Resta de dos números	10 - 4 |
 | ``multiplicación`` |	Multiplicación de dos números	7 * 2 |
 | ``división`` |	División de dos números	20 / 4 |
+
+---
+
+## 🗂️ Contribuciones
+**🤝 ¿Quieres colaborar? ¡Eres bienvenido! Sigue estos pasos:**
+🔹1. Haz un fork de este repositorio.
+🔹2. Crea un branch para tu funcionalidad:
+```
+git checkout -b mi-funcionalidad
+```
+🔹3. Haz un commit con tus cambios:
+```
+git commit -m "Añadir mi funcionalidad"
+```
+🔹4. Sube tus cambios:
+```
+git push origin mi-funcionalidad
+```
+🔹5. Abre un pull request en este repositorio.
+
+---
+
+## 🔮 Próximas Mejoras
+- Añadir soporte para operaciones avanzadas como exponentes y logaritmos.
+- Mejorar la interfaz de usuario con temas oscuros y claros.
+- Optimización de la API para mejor rendimiento en consultas concurrentes.
+
+---
+
+## ✨ Créditos
+Este proyecto no sería posible sin la colaboración de todos los desarrolladores que han contribuido:
+
+### 🧑‍💻Rubén Gámez Torrijos
+🖥️ - Desarrollo del frontend y la interfaz de usuario.
+🔢 - Implementación de la lógica de operaciones matemáticas en el backend.
+🌐 - Desarrollo de la API RESTful para la calculadora.
+
+Agradecemos también a todas las personas que probaron y sugirieron mejoras. 🙌
+
+---
+
+## 📝 Licencia
+Este proyecto está bajo la licencia Apache 2.0. ¡Siéntete libre de usarlo, modificarlo y compartirlo!
+
 
