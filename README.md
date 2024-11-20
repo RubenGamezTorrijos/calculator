@@ -20,7 +20,7 @@ Calculadora en HTML CSS y JavaScript
 
 ---
 
-## 📋 Tabla de Contenidos
+## 📋 Índice
 - [Características](#-características)
 - [Estructura](#-estructura)
 - [Guía de uso](#-guía-de-uso)
