@@ -16,7 +16,27 @@ Calculadora en HTML CSS y JavaScript
 
 > **Versión actual:** 1.0.0  
 > **Plataforma:** Java Script + CSS + HTML  
-> **Compatibilidad navegadores:** Chrome, Edge, Firefox y Safari
+> **Compatibilidad:** Chrome, Edge, Firefox y Safari
 
 ---
+
+## 📋 Tabla de Contenidos
+- [Características](#-características)
+- [Estructura](#-estructura)
+- [Guía de uso](#-guía-de-uso)
+- [Desarrollo](#-desarrollo)
+- [Contribuciones](#-contribuciones)
+- [Próximas Mejoras](#-próximas-mejoras)
+- [Créditos](#-créditos)
+- [Licencia](#-licencia)
+
+---
+
+## 🚀 **Guía de Uso**
+### 1. Instalación
+🔹1. Clona este repositorio:
+```
+git clone https://github.com/tu-usuario/calculator.git
+cd calculator
+```
 
