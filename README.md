@@ -4,9 +4,10 @@
 <br>
 ![https://github.com/RubenGamezTorrijos/assets/Calculadora_Web.jpg](https://github.com/RubenGamezTorrijos/calculator/blob/main/images/Calculadora_Web.jpg)
 <br>
+![Calculadora_Web](https://github.com/user-attachments/assets/9bbd2f57-7615-45dc-8f18-57dc83800784)
 
 
-![Status](https://img.shields.io/badge/Estado-En%20Producción-green?style=flat-square)
+![Status](https://img.shields.io/badge/Estado-Producción-green?style=flat-square)
 ![GitHub license](https://img.shields.io/github/license/RubenGamezTorrijos/calculator?style=flat-square)
 ![GitHub version](https://img.shields.io/github/v/tag/RubenGamezTorrijos/calculator?label=versión&style=flat-square)
 ![GitHub repo size](https://img.shields.io/github/repo-size/RubenGamezTorrijos/calculator?style=flat-square)
