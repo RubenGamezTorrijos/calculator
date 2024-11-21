@@ -1,10 +1,9 @@
 # 🔢**Calculadora Web: Front-end y Back-end**
 ¡Bienvenido al proyecto Calculadora Web! 🎯 Este proyecto implementa una calculadora en línea con capacidades de realizar operaciones matemáticas básicas y avanzadas a través de una interfaz de usuario amigable. El sistema se desarrolla en dos módulos principales: Frontend y Backend.
 
-<br>
-![https://github.com/RubenGamezTorrijos/assets/Calculadora_Web.jpg](https://github.com/RubenGamezTorrijos/calculator/blob/main/images/Calculadora_Web.jpg)
-<br>
-![Calculadora_Web](https://github.com/user-attachments/assets/9bbd2f57-7615-45dc-8f18-57dc83800784)
+![Calculadora_Web](https://github.com/RubenGamezTorrijos/calculator/blob/main/images/calculadora_web.jpg)
+
+
 
 
 ![Status](https://img.shields.io/badge/Estado-Producción-green?style=flat-square)
