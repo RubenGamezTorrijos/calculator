@@ -1,4 +1,4 @@
-# 🔢**Calculadora Web: Front-end y Back-end**
+# 🔢**Calculadora Web: JS + CSS + HTML**
 ¡Bienvenido al proyecto Calculadora Web! 🎯 Este proyecto implementa una calculadora en línea con capacidades de realizar operaciones matemáticas básicas y avanzadas a través de una interfaz de usuario amigable. El sistema se desarrolla en dos módulos principales: Frontend y Backend.
 
 ![Calculadora_Web](https://github.com/RubenGamezTorrijos/calculator/blob/main/images/calculadora_web.jpg)
